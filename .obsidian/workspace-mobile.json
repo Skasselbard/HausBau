@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "8ae191322b0ffeaf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Test.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Test.md",
+            "file": "Hausdynamiken.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Test.md",
+            "file": "Hausdynamiken.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -127,12 +114,20 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Test.md"
+            "file": "Hausdynamiken.md"
           }
+        }
+      },
+      {
+        "id": "8066ecbe40335184",
+        "type": "leaf",
+        "state": {
+          "type": "git-history-view",
+          "state": {}
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 3
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -145,10 +140,10 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "72b6eb412b0e3696",
+  "active": "bbd6c0e150ba2cc8",
   "lastOpenFiles": [
-    "Garten.md",
+    "Hausdynamiken.md",
     "Test.md",
-    "Hausdynamiken.md"
+    "Garten.md"
   ]
 }
