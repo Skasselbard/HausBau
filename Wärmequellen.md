@@ -1,0 +1,4 @@
+![[Solarthermie]]
+![[Geothermie]]
+![[Elektrische Heizung]]
+![[Fossile Heizung]]

@@ -7,6 +7,7 @@ Dazu werden müssen die Bedingungen, die außerhalb des Hauses gelten so geregel
 Unter die wichtigsten zu regelnden Dynamiken fallen Wasser (Regen) und die Temperatur des Hauses.
 
 # Wasser
+
 # Temperatur
 # Licht
 # Luft
