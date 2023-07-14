@@ -1,0 +1,2 @@
+# Resistiv
+![[Wärmepumpe]]
