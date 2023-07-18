@@ -10,6 +10,7 @@ Unter die wichtigsten zu regelnden Dynamiken fallen Wasser (Regen) und die Tempe
 - pH
 
 # Temperatur
+
 # Licht
 # Luft
 # Schall
