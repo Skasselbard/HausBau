@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b4f2b26ff89554bf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notizen.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Hausdynamiken.md",
+            "file": "Notizen.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Hausdynamiken.md",
+            "file": "Notizen.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +127,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Hausdynamiken.md"
+            "file": "Notizen.md"
           }
         }
       },
@@ -140,8 +153,11 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "bbd6c0e150ba2cc8",
+  "active": "b4f2b26ff89554bf",
   "lastOpenFiles": [
+    "Hausdynamiken.md",
+    "Fhh.canvas",
+    "Notizen.md",
     "Gewächshaus.md",
     "Wärmequellen.md",
     "Pneumatische Schaltzeichen.md",
@@ -163,7 +179,6 @@
     "/Elektrische Heizung.md",
     "/Bubble Pump.md",
     "/Bau.md",
-    "Hausdynamiken.md",
     "Test.md",
     "Garten.md"
   ]

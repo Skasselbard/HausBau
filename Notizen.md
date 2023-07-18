@@ -1,0 +1,46 @@
+- Laage:
+	- In einer Seitenstraße (nicht an viel befahrener Straße)
+	- Einkaufsmöglichkeiten in Reichweite (<10km).
+- Räume planen nach Tagesaktivität:
+	- Wird am Tag genutzt, wird in der Nacht genutzt, wird am WE genutzt, etc.
+- Förderungen recherchieren.
+- Lager für Früchte durch co2 Gefälle in den Keller "verbessern".
+	- Co2 sinkt nach unten -> Früchte unten in Reichweite von co2
+- Wasserkreislauf mit Wärmekreislauf verbinden.
+	- Evtl andere Infrastruktur berücksichtigen.
+	- Zb Elektrizität (Daten)
+	- Rohre (heizwasser Abwasser), Gas, Öl...
+	- Nährstoffe
+- Materialparameter:
+	- Wärmedämmung
+	- Schalldämmung
+	- Wasserdurchlässigkeit
+	- Brandsicherheit
+	- Schimmelgefahr
+	- Kork isoliert Schall
+- Bad mit (isolierenden) diffusen Glassteinen bauen für Lichtwand.
+	- Evtl. Geformt als Bogen, Pforte oä.
+- Thermokreislauf + Ventilationskreislauf:
+	- Fundament/Unterboden im Sommer erwärmen und im Winter "Geothermie" nutzen.
+	- Erdreich unterm Haus kann im Sommer zur Kaltluftzufuhr für Haus und  Gewächshaus dienen.
+- Bekannte Tätigkeiten auflisten um Räume zu planen (zb löten -> Rauchabzug, Sport -> Schallisolierung)
+- Raumaufteilung um Umbau zur Ferienwohnung zu ermöglichen.
+- (Regen) Rinne in Terrassenboden um Dreck (nach dem Fegen) wegzuspülen
+- Science of Wege!
+- Was hilft gegen Pests wie Mücken und Wespen?
+- Feature: Haus im Gewächshaus
+- Feature: Aussichtsraum mit nach unten angewinkelten Fenstern.
+	- Möglicherweise in Turm. (Mandalorien Piraten Luftschiff)
+- Feature: Wasserleitungen durch gewegplatten im Wärme Kreislauf
+- Sonnenkalender im Gewächshaus
+- Kondenswasserkollektoren an Gewächshausfenstern
+- Rad mit Glocke als Klingel
+- Außen Küche
+- Großes Tor an Haus mit temperaturresistenten Geräten dahinter -> flacher Raum dahinter als zusätzliche Isolierung für das Haus.
+	- Viel Fläche für einfachen Zugang mit wenig Volumen.
+- Getrennte Stromkreise für Netzstrom und autarken Strom.
+- Gewächshaus: Bereich für Anzucht von kleinen Pflanzen berücksichtigen
+- Drainage für Untergrundgewächshaus gegen übermäßigen regen.
+- Wasser von Boden kann Licht ins Haus reflektieren
+- Japanischer Garten 
+- Sound Kabel verlegen 
