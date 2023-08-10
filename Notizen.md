@@ -44,3 +44,5 @@
 - Wasser von Boden kann Licht ins Haus reflektieren
 - Japanischer Garten 
 - Sound Kabel verlegen 
+- Reinraum?
+- [Zement als Batterie](https://www.pnas.org/doi/10.1073/pnas.2304318120)
