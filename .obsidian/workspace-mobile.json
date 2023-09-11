@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Wasser Abstieg.md",
+                "file": "Gewächshaus Pflanzen.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Wasser Abstieg.md",
+            "file": "Gewächshaus Pflanzen.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Wasser Abstieg.md",
+            "file": "Gewächshaus Pflanzen.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Wasser Abstieg.md"
+            "file": "Gewächshaus Pflanzen.md"
           }
         }
       },
@@ -142,12 +142,22 @@
   },
   "active": "b4f2b26ff89554bf",
   "lastOpenFiles": [
+    "Gewächshaus.md",
+    "Gewächshaus Pflanzen.md",
     "Notizen.md",
+    "Hydroponic Pflanzen.md",
+    "Sektoren.md",
+    "Hänge.md",
+    "Zones.md",
+    "Bewässerung.md",
+    "Swales.md",
+    "Pflanzenfunktionen.md",
+    "Baum pflanzen.md",
+    "Parameteranalyse.md",
     "Wasser Abstieg.md",
     "/Hausdynamiken.md",
     "Hausdynamiken.md",
     "Fhh.canvas",
-    "Gewächshaus.md",
     "Wärmequellen.md",
     "Pneumatische Schaltzeichen.md",
     "Passiv Haus.md",
@@ -158,16 +168,6 @@
     "Bubble Pump.md",
     "/Gewächshaus.md",
     "/Wärmequellen.md",
-    "/Pneumatische Schaltzeichen.md",
-    "/Passiv Haus.md",
-    "/Organic Pool.md",
-    "/Hühner.md",
-    "/Gartenstrukturen.md",
-    "/Garten.md",
-    "/Elektrische Heizung.md",
-    "/Bubble Pump.md",
-    "/Bau.md",
-    "Test.md",
-    "Garten.md"
+    "/Pneumatische Schaltzeichen.md"
   ]
 }

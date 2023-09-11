@@ -46,3 +46,15 @@
 - Sound Kabel verlegen 
 - Reinraum?
 - [Zement als Batterie](https://www.pnas.org/doi/10.1073/pnas.2304318120)
+- Sensoren in unterschiedliche Tiefe stecken, um Geothermie zu messen
+- Mini-Gewächshaus -> nur für Pflanzen, mimikri von Haus/Landschaft 
+
+Liste von Pflanzen
+- Himbeeren
+- Zwiebeln
+- Spargel
+- Knoblauch
+- Erdbeeren
+- Bohnen und Erbsen -> Stickstoffsammler
+- Ingwer
+- Banane
