@@ -48,6 +48,8 @@
 - [Zement als Batterie](https://www.pnas.org/doi/10.1073/pnas.2304318120)
 - Sensoren in unterschiedliche Tiefe stecken, um Geothermie zu messen
 - Mini-Gewächshaus -> nur für Pflanzen, mimikri von Haus/Landschaft 
+- Pilzzelt
+- "Schornstein" im Gewächshaus zur Kühlung im Sommer -> Integration ins Treppenhaus?
 
 Liste von Pflanzen
 - Himbeeren

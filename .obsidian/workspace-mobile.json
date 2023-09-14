@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gewächshaus Pflanzen.md",
+                "file": "Notizen.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Gewächshaus Pflanzen.md",
+            "file": "Notizen.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Gewächshaus Pflanzen.md",
+            "file": "Notizen.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Gewächshaus Pflanzen.md"
+            "file": "Notizen.md"
           }
         }
       },
@@ -142,8 +142,10 @@
   },
   "active": "b4f2b26ff89554bf",
   "lastOpenFiles": [
-    "Gewächshaus.md",
+    "Kreditrechnungen.md",
+    "/Kreditrechnungen.md",
     "Gewächshaus Pflanzen.md",
+    "Gewächshaus.md",
     "Notizen.md",
     "Hydroponic Pflanzen.md",
     "Sektoren.md",
@@ -166,8 +168,6 @@
     "Gartenstrukturen.md",
     "Elektrische Heizung.md",
     "Bubble Pump.md",
-    "/Gewächshaus.md",
-    "/Wärmequellen.md",
-    "/Pneumatische Schaltzeichen.md"
+    "/Gewächshaus.md"
   ]
 }
