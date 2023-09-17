@@ -1,3 +1,4 @@
+#pflanzen
 - Bodendeckung
 - Stickstoffsammler
 - Bestäuber

@@ -1,3 +1,4 @@
+#pflanzen [[Hydroponic]]
 [[Erdbeere]]
 [[Basilikum]]
 [[Minze]]

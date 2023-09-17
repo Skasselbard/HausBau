@@ -1,2 +1,3 @@
+[[Garten]]
 ![[Gewächshaus]]
 ![[Wintergarten]]

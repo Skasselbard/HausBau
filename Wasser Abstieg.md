@@ -1,3 +1,4 @@
+#wasser #permakultur 
 ![](https://youtu.be/V3tpaIf6Jcc)
 
 - Hügel/Berg/Haus: Wasser auffang Zone

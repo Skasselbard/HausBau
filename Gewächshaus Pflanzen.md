@@ -1,3 +1,4 @@
+#pflanzen 
 1. Nicht für eigenes Klima geeignet
   - [[Banane]]
   - [[Mango]]

@@ -1,1 +1,2 @@
+#garten
 ![[Gartenstrukturen]]

@@ -1,3 +1,4 @@
+#permakultur 
 ## Breitengrade
 - Tageslänge 
 - Lichtstärke
