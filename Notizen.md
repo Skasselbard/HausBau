@@ -50,6 +50,8 @@
 - Mini-Gewächshaus -> nur für Pflanzen, mimikri von Haus/Landschaft 
 - Pilzzelt
 - "Schornstein" im Gewächshaus zur Kühlung im Sommer -> Integration ins Treppenhaus?
+- Grundstücke nach bekannter Munition prüfen 
+- #beachten
 
 Liste von Pflanzen
 - Himbeeren

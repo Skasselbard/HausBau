@@ -44,7 +44,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "",
+            "query": "tag:#zubeachten",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -73,7 +73,7 @@
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 1
   },
   "right": {
     "id": "68412772e3570f02",
@@ -140,7 +140,7 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "b4f2b26ff89554bf",
+  "active": "95e6959c4332c0c7",
   "lastOpenFiles": [
     "Kreditrechnungen.md",
     "/Kreditrechnungen.md",
