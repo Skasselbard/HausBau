@@ -1,0 +1,5 @@
+---
+tags:
+  - baumaterial
+  - hygroskopisch
+---

@@ -28,3 +28,35 @@ Restschuld = 0€
 |5|52.991€|94.281€|126.455€|151.525€|171.060€|186.282€|
 |6|51.726€|90.073€|118.504€|139.581€|155.207€|166.792€|
 
+
+[Rate:: 250]
+[Zinssatz:: 6]
+[Monate:: 48]
+`$=dv.current().Rate/(dv.current().Zinssatz/1200)*(1-Math.pow((1+(dv.current().Zinssatz/1200)),-dv.current().Monate))`
+
+```dataviewjs
+function kredit(rate, zinssatz, monate){
+	return rate/(zinssatz/1200)*(1-Math.pow((1+(zinssatz/1200)),-monate))
+}
+dv.span(kredit(250,6,48))
+dv.table(
+    ["Col1", "Col2", "Col3"],
+        [
+            ["Row1", "Dummy", "Dummy"],
+            ["Row2", 
+                ["Bullet1",
+                 "Bullet2",
+                 "Bullet3"],
+             "Dummy"],
+            ["Row3", "Dummy", "Dummy"]
+        ]
+    );
+
+const table = dv.markdownTable(["File", "Genre", "Time Read", "Rating"], dv.pages("#book")
+    .sort(b => b.rating)
+    .map(b => [b.file.link, b.genre, b["time-read"], b.rating]))
+
+dv.paragraph(table);
+
+```
+
