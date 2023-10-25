@@ -3,6 +3,10 @@
 	- Einkaufsmöglichkeiten in Reichweite (<10km).
 - Räume planen nach Tagesaktivität:
 	- Wird am Tag genutzt, wird in der Nacht genutzt, wird am WE genutzt, etc.
+- Bereiche planen nach Produktivität:
+	- Arbeitsbereiche sollten beisammen sein sodass man sich Gewohnheiten anlegen kann, mehrere Arbeiten nacheinander zu erledigen
+	- verschiedene Bereiche können innerhalb eines Raumes liegen
+	- Arbeitsbereiche sollten raumübergreifend aneinander grenzen
 - Förderungen recherchieren.
 - Lager für Früchte durch co2 Gefälle in den Keller "verbessern".
 	- Co2 sinkt nach unten -> Früchte unten in Reichweite von co2
@@ -52,6 +56,10 @@
 - "Schornstein" im Gewächshaus zur Kühlung im Sommer -> Integration ins Treppenhaus?
 - Grundstücke nach bekannter Munition prüfen 
 - #beachten
+- [Flächenaufwand](https://youtu.be/cYE9a2Lj_dQ?si=vbAO1sG-dztjY9tu)
+- Erker im Gewächshaus?
+- [solar Wandheizung](https://en.m.wikipedia.org/wiki/Trombe_wall)
+- [Nachhaltigkeit Publikationen](https://www.sustainabilityleader.org/)
 
 Liste von Pflanzen
 - Himbeeren

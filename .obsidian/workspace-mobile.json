@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notizen.md",
+                "file": "Lebenskosten.md",
                 "mode": "source",
                 "source": false
               }
@@ -44,7 +44,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "tag:#zubeachten",
+            "query": "tag:energie",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -71,9 +71,19 @@
           "type": "bookmarks",
           "state": {}
         }
+      },
+      {
+        "id": "fe3b6e29a4cb82e1",
+        "type": "leaf",
+        "state": {
+          "type": "all-properties",
+          "state": {
+            "sortOrder": "frequency"
+          }
+        }
       }
     ],
-    "currentTab": 1
+    "currentTab": 0
   },
   "right": {
     "id": "68412772e3570f02",
@@ -85,7 +95,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Notizen.md",
+            "file": "Lebenskosten.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +112,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Notizen.md",
+            "file": "Lebenskosten.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +124,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Notizen.md"
+            "file": "Lebenskosten.md"
           }
         }
       },
@@ -140,34 +150,34 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "95e6959c4332c0c7",
+  "active": "72b6eb412b0e3696",
   "lastOpenFiles": [
     "Kreditrechnungen.md",
+    "Lebenskosten.md",
+    "/Verbraucher.md",
+    "/Lebenskosten.md",
     "/Kreditrechnungen.md",
+    "/Förderungen.md",
+    "Photovoltaik.md",
+    "Energiereihenfolge.md",
+    "Elektroanlagen.md",
+    "Notizen.md",
+    "().md",
+    "Xylem Filter.md",
+    "Verbraucher.md",
+    "Holz.md",
+    "Hanfkalk.md",
+    "Förderungen.md",
+    "Brandverhalten.md",
+    "/Xylem Filter.md",
+    "/Photovoltaik.md",
+    "/Holz.md",
+    "/Hanfkalk.md",
+    "/Brandverhalten.md",
     "Gewächshaus Pflanzen.md",
     "Gewächshaus.md",
-    "Notizen.md",
     "Hydroponic Pflanzen.md",
     "Sektoren.md",
-    "Hänge.md",
-    "Zones.md",
-    "Bewässerung.md",
-    "Swales.md",
-    "Pflanzenfunktionen.md",
-    "Baum pflanzen.md",
-    "Parameteranalyse.md",
-    "Wasser Abstieg.md",
-    "/Hausdynamiken.md",
-    "Hausdynamiken.md",
-    "Fhh.canvas",
-    "Wärmequellen.md",
-    "Pneumatische Schaltzeichen.md",
-    "Passiv Haus.md",
-    "Organic Pool.md",
-    "Hühner.md",
-    "Gartenstrukturen.md",
-    "Elektrische Heizung.md",
-    "Bubble Pump.md",
-    "/Gewächshaus.md"
+    "Fhh.canvas"
   ]
 }
