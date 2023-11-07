@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lebenskosten.md",
+                "file": "Walipini.md",
                 "mode": "source",
                 "source": false
               }
@@ -44,7 +44,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "tag:energie",
+            "query": "No",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -95,7 +95,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Lebenskosten.md",
+            "file": "Walipini.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Lebenskosten.md",
+            "file": "Walipini.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -124,7 +124,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Lebenskosten.md"
+            "file": "Walipini.md"
           }
         }
       },
@@ -152,6 +152,9 @@
   },
   "active": "72b6eb412b0e3696",
   "lastOpenFiles": [
+    "Notizen.md",
+    "Walipini.md",
+    "Gewächshaus.md",
     "Kreditrechnungen.md",
     "Lebenskosten.md",
     "/Verbraucher.md",
@@ -161,7 +164,6 @@
     "Photovoltaik.md",
     "Energiereihenfolge.md",
     "Elektroanlagen.md",
-    "Notizen.md",
     "().md",
     "Xylem Filter.md",
     "Verbraucher.md",
@@ -175,9 +177,7 @@
     "/Hanfkalk.md",
     "/Brandverhalten.md",
     "Gewächshaus Pflanzen.md",
-    "Gewächshaus.md",
     "Hydroponic Pflanzen.md",
-    "Sektoren.md",
     "Fhh.canvas"
   ]
 }

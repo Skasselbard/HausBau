@@ -60,6 +60,7 @@
 - Erker im Gewächshaus?
 - [solar Wandheizung](https://en.m.wikipedia.org/wiki/Trombe_wall)
 - [Nachhaltigkeit Publikationen](https://www.sustainabilityleader.org/)
+- "methane digester" -> Kompost + Methan capture
 
 Liste von Pflanzen
 - Himbeeren
