@@ -1,3 +1,4 @@
 [[Garten]]
 ![[Gewächshaus]]
+![[Walipini]]
 ![[Wintergarten]]

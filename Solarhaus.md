@@ -1,0 +1,1 @@
+![[Solarthermie-Konzept.svg]]
