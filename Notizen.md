@@ -61,6 +61,7 @@
 - [solar Wandheizung](https://en.m.wikipedia.org/wiki/Trombe_wall)
 - [Nachhaltigkeit Publikationen](https://www.sustainabilityleader.org/)
 - "methane digester" -> Kompost + Methan capture
+- welche Materialien speichern Wärme?
 
 Liste von Pflanzen
 - Himbeeren

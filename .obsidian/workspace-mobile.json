@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Walipini.md",
+                "file": "Notizen.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Walipini.md",
+            "file": "Notizen.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Walipini.md",
+            "file": "Notizen.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -124,7 +124,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Walipini.md"
+            "file": "Notizen.md"
           }
         }
       },
@@ -152,8 +152,15 @@
   },
   "active": "72b6eb412b0e3696",
   "lastOpenFiles": [
-    "Notizen.md",
+    "Rocket Mass Heater.md",
+    "pics/Solarthermie-Konzept.svg",
+    "Solarhaus.md",
+    "/pics/Solarthermie-Konzept.svg",
+    "/Wärmequellen.md",
+    "/Solarhaus.md",
+    "/Gartenstrukturen.md",
     "Walipini.md",
+    "Notizen.md",
     "Gewächshaus.md",
     "Kreditrechnungen.md",
     "Lebenskosten.md",
@@ -172,12 +179,6 @@
     "Förderungen.md",
     "Brandverhalten.md",
     "/Xylem Filter.md",
-    "/Photovoltaik.md",
-    "/Holz.md",
-    "/Hanfkalk.md",
-    "/Brandverhalten.md",
-    "Gewächshaus Pflanzen.md",
-    "Hydroponic Pflanzen.md",
     "Fhh.canvas"
   ]
 }
