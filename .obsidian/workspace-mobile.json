@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notizen.md",
+                "file": "Hausdynamiken.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Notizen.md",
+            "file": "Hausdynamiken.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Notizen.md",
+            "file": "Hausdynamiken.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -124,7 +124,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Notizen.md"
+            "file": "Hausdynamiken.md"
           }
         }
       },
@@ -152,6 +152,7 @@
   },
   "active": "72b6eb412b0e3696",
   "lastOpenFiles": [
+    "Notizen.md",
     "Rocket Mass Heater.md",
     "pics/Solarthermie-Konzept.svg",
     "Solarhaus.md",
@@ -160,7 +161,6 @@
     "/Solarhaus.md",
     "/Gartenstrukturen.md",
     "Walipini.md",
-    "Notizen.md",
     "Gewächshaus.md",
     "Kreditrechnungen.md",
     "Lebenskosten.md",
