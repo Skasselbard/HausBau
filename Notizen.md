@@ -62,6 +62,10 @@
 - [Nachhaltigkeit Publikationen](https://www.sustainabilityleader.org/)
 - "methane digester" -> Kompost + Methan capture
 - welche Materialien speichern Wärme?
+- Bodenbereich vor dem Haus in die Tiefe isolieren um einen thermischen Speicher zu erstellen
+- Lüftungsanschlüsse vom Haus nach außen planen um Solarheizung zu verbinden
+	- zb [solche](https://youtu.be/mhWbSEzQqAI?si=ccfE888q7SEFI1nC) Heizelemente 
+- Feuerstelle/ Ofen im Gewächshaus?
 
 Liste von Pflanzen
 - Himbeeren
