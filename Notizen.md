@@ -65,7 +65,8 @@
 - Bodenbereich vor dem Haus in die Tiefe isolieren um einen thermischen Speicher zu erstellen
 - Lüftungsanschlüsse vom Haus nach außen planen um Solarheizung zu verbinden
 	- zb [solche](https://youtu.be/mhWbSEzQqAI?si=ccfE888q7SEFI1nC) Heizelemente 
-- Feuerstelle/ Ofen im Gewächshaus?
+- Feuerstelle/ Offen im Gewächshaus?
+- [Lehm verputzen](https://youtu.be/rNaYKCUnRCE?si=InK9KDXFgHKfbk-Z)
 
 Liste von Pflanzen
 - Himbeeren
