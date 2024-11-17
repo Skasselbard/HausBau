@@ -1,0 +1,4 @@
+- Stufen aus Solarkollektoren
+- Wasserfilter aus pflanzen im Dach
+- Wasserturm 
+- Elektrik im Erdgeschoss 

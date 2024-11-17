@@ -67,6 +67,21 @@
 	- zb [solche](https://youtu.be/mhWbSEzQqAI?si=ccfE888q7SEFI1nC) Heizelemente 
 - Feuerstelle/ Offen im Gewächshaus?
 - [Lehm verputzen](https://youtu.be/rNaYKCUnRCE?si=InK9KDXFgHKfbk-Z)
+- Zelle im Garten kann Mikroklima forcieren 
+	- vertikal anbauen, mindestens drei wand seiten
+	- "Dach" mit linse zum fokussieren von Umgebungslicht nach unten
+	- evtl Reflektor am Boden zum streuen und verteilen des gesammelten Lichts
+	- könnte an Gewächshaus Wände anschließen?
+- Struktur: Theater
+	- Vorbild: offenes  griechisches Theater/ Versammlungspunkt 
+	- Doppelnutzung mit Pflanzen
+		- reihen könnten mit kleinen Pflanzen und Blumen bepflanzt werden
+		- klappen von sitzen über die Pflanzen 
+	- Wasser Speicher am tiefsten Punkt 
+		- Steg oder Schwimmer zur Nutzung der Fläche 
+- [biologischer Wasserfilter](https://youtu.be/3d_dx0Drn04?si=CEMyv4CRFAqmEWul)
+- Türgriffe selbst gießen (wie alter Türgriff bei den Eltern)
+
 
 Liste von Pflanzen
 - Himbeeren
