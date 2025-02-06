@@ -1,0 +1,39 @@
+- Innendämmung 
+- Ziegelfassade 
+- Wärmerückgewinnung
+	- Abwasser
+	- Abluft 
+- Stromkreise 
+	- öffentliche 
+	- Nebenkreis (isoliert)
+- LAN 
+- Abwasser 
+	- Grauwasser zur Wiedernutzung 
+	- Klärabwasser
+- Wärmespeicher 
+	- Erdspeicher mit Leitungen 
+	- Latentwärmespeicher
+	- thermische Masse von Haus
+- Ventilation 
+	- passiv
+		- Fensteranordnung 
+		- Windturm 
+	- aktiv
+- Wasserspeicher
+	- Warmwasser 
+	- Regenwasser 
+- Wasseraufbereitung 
+- Stromspeicher 
+- Stromerzeugung 
+	- Solar 
+- Wärmeerzeugung 
+	- Strom (Wärmepumpe, infrarot)
+	- Geothermie 
+		- Luft
+		- Wasser 
+	- Solar (e.g. Gewächshaus)
+	- Verbrennung (Holz, Gas)
+- Gewächshaus 
+- Speiselager (Keller)
+- Erker 
+	- kombinieren mit Wärmespeicher 
